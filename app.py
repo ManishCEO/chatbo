@@ -1,5 +1,5 @@
 from tkinter import * 
-from chatboy3 import get_response
+from chatbot import get_response
 
 BG_GRAY = "#ABB289"
 BG_COLOR ="#17202A"
